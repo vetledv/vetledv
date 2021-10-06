@@ -1,6 +1,14 @@
-### Hi there 👋
 
-[<img align="left" alt="Twitter" width="22px" src="http://i.imgur.com/tXSoThF.png"/>][twitter]
+```
+System.out.println("Hello World!");
+```
+
+## About me
+Student at Kristiania University College
+
+### Socials
+[<img align="left" alt="Twitter" width="32px" src="https://imgur.com/iYkheW1.png"/>][twitter]
+
 <!--
 **vetledv/vetledv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
