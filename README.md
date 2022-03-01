@@ -1,8 +1,9 @@
-## Hello World! 
 
-Student at Kristiania University College  
+``` csharp
+Name: Vetle de Vries Brandth
+About: Student at Kristiania University College
+```
 
-----
 
 
 <!--
