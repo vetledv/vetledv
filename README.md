@@ -1,7 +1,5 @@
 ## Hello World! 
 
-### About me
-
 Student at Kristiania University College  
 
 ----
