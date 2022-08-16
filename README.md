@@ -1,9 +1,6 @@
-
-``` csharp
-Name: Vetle de Vries Brandth
-About: Student at Kristiania University College
-```
-
+### Hello traveler! :wave:
+My name is Vetle de Vries, I'm a student at Kristiania University College in Oslo, Norway. Taking a bachelor in Information technology - Frontend and Mobile Development.
+<br> Aspiring to be a fully-stacked TypeScript enjoyer ❤️
 
 
 <!--
